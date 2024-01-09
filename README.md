@@ -7,6 +7,6 @@ also included gtk3 and gtk4 CSS (gradience generated and edited).
 
 Not perfect but good enough for me.
 
-Original credits go to ZorinOs Team. 
+Original credits goes to ZorinOs Team. 
 
 https://github.com/ZorinOS/zorin-desktop-themes
