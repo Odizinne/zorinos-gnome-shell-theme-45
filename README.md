@@ -3,7 +3,7 @@
 [<img src="images/screenshot.png">](images/screenshot.png)
 
 This is Zorin OS 17 gnome-shell theme ported to gnome 45.<br/>
-also included gtk3 and gtk4 CSS (gradience generated and edited).
+also included gtk3 and gtk4 CSS (gradience generated and edited, use gtk3 css with Adw-gtk3 theme).
 
 Not perfect but good enough for me.
 
