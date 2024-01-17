@@ -1645,3 +1645,5 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 #unlockDialogNotifications StButton#vhandle:hover, #unlockDialogNotifications StButton#vhandle:focus, #unlockDialogNotifications StButton#hhandle:hover, #unlockDialogNotifications StButton#hhandle:focus { background-color: rgba(30, 37, 41, 0.6); }
 
 #unlockDialogNotifications StButton#vhandle:active, #unlockDialogNotifications StButton#hhandle:active { background-color: rgba(30, 37, 41, 0.7); }
+
+.workspace-dot { background-color: #bde6fb; }
